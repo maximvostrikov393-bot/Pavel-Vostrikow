@@ -1,2 +1,4 @@
 # Pavel-Vostrikow
-my own repository
+**Отчеты по всем предметам**
+*ветка GIt*
+*Ветка Linux*
